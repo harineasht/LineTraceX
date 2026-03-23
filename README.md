@@ -106,7 +106,3 @@ Pull requests are welcome. For major changes, please open an issue first.
 If you like this project, give it a ⭐ on GitHub!
 
 ---
-
-
-Just tell 👍
-

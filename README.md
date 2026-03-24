@@ -42,13 +42,13 @@
 
 | Driver Pin | Arduino Pin |
 | ---------- | ----------- |
-| PWMA       | D5          |
-| AIN1       | D2          |
-| AIN2       | D3          |
-| PWMB       | D6          |
+| PWMA       | D9          |
+| AIN1       | D3          |
+| AIN2       | D4          |
+| PWMB       | D10          |
 | BIN1       | D7          |
 | BIN2       | D8          |
-| STBY       | D4          |
+| STBY       | D5          |
 
 ---
 
